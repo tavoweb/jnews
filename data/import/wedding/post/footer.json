@@ -1,0 +1,116 @@
+[
+  {
+    "id": "86ecc39",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "gap": "no"
+    },
+    "elements": [
+      {
+        "id": "c988d26",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "f3f7b22",
+            "elType": "widget",
+            "settings": {
+              "footer_instagram_username": "hochzeitsguide",
+              "footer_instagram_column": {
+                "unit": "px",
+                "size": 7
+              },
+              "footer_instagram_hover_style": "like"
+            },
+            "elements": [],
+            "widgetType": "jnews_footer_instagram_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b7b7fa7",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width"
+    },
+    "elements": [
+      {
+        "id": "867e549",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "9510878",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "dd8d4dd",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "d494982",
+                    "elType": "widget",
+                    "settings": {
+                      "social_icon": "nobg"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_footer_social_elementor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "1b0eb25",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "091a91a",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Wedding Blog WordPress theme made with <a href='#'>JNews<\/a>.<\/p>",
+                      "align": "right",
+                      "text_color": "#555555",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Libre Baskerville",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 12
+                      },
+                      "typography_font_weight": "400"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "5b3c625",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#033054",
+      "margin": {
+        "unit": "px",
+        "top": "-30",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "c819f49",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "snr5zlf",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "hero_margin": {
+                "unit": "px",
+                "size": 1
+              },
+              "content_type": "post",
+              "content_filter_number_alert": "",
+              "post_offset": {
+                "unit": "px",
+                "size": 0
+              },
+              "unique_content": "unique1",
+              "css": ".vc_custom_1534819035622{margin-bottom: 20px !important;}",
+              "date_format_custom": "Y\/m\/d"
+            },
+            "elements": [],
+            "widgetType": "jnews_hero_5_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4f7a672",
+    "elType": "section",
+    "settings": {
+      "padding": {
+        "unit": "px",
+        "top": "30",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "f922138",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "dULQa5C",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_7",
+              "number_post": {
+                "unit": "px",
+                "size": 3
+              },
+              "post_offset": {
+                "unit": "px",
+                "size": 3
+              },
+              "unique_content": "unique1",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_37_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6533921",
+    "elType": "section",
+    "settings": {
+      "border_border": "solid",
+      "border_width": {
+        "unit": "px",
+        "top": "00",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "f4c42ab",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "Y24LCUx",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_7",
+              "number_post": {
+                "unit": "px",
+                "size": 4
+              },
+              "post_offset": {
+                "unit": "px",
+                "size": 3
+              },
+              "unique_content": "unique1",
+              "first_title": "What's in the Class",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_22_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "07a0c7d",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#f1f1f1",
+      "border_border": "solid",
+      "border_width": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "border_color": "#f86320"
+    },
+    "elements": [
+      {
+        "id": "91b1b1d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "5796175",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "969f142",
+            "elType": "widget",
+            "settings": {
+              "title": "Get The Best Education for Better Future",
+              "align": "center",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Arbutus Slab",
+              "typography_font_weight": "400",
+              "_margin": {
+                "unit": "px",
+                "top": "25",
+                "right": "0",
+                "bottom": "25",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "af49f39",
+            "elType": "widget",
+            "settings": {
+              "title": "IT'S NEVER TOO LATE TO STUDY! ANY SUCCESSFUL CAREER STARTS WITH A GOOD EDUCATION.",
+              "align": "center",
+              "title_color": "#555555",
+              "typography_typography": "custom",
+              "typography_font_family": "Karla",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "400",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "30",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "b610291",
+            "elType": "widget",
+            "settings": {
+              "text": "REGISTRATION FORM",
+              "align": "center",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "400",
+              "button_text_color": "#ffffff",
+              "background_color": "#3c787e",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "text_padding": {
+                "unit": "px",
+                "top": "14",
+                "right": "20",
+                "bottom": "14",
+                "left": "20",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          },
+          {
+            "id": "34f1fbc",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "MAQM7OU",
+    "elType": "section",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "20",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "iTL0kiT",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "KJr3Cd3",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_7",
+              "header_filter_category": "{{category:stories:id}},{{category:studying:id}},{{category:learning:id}},{{category:management:id}}",
+              "post_offset": {
+                "unit": "px",
+                "size": 0
+              },
+              "sort_by": "popular_post",
+              "first_title": "Popular News",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_21_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

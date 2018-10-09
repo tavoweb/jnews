@@ -1,0 +1,982 @@
+[
+  {
+    "id": "a6a0ae7",
+    "elType": "section",
+    "settings": {
+      "margin": {
+        "unit": "px",
+        "top": "-40",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "a45102d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "32c5d8a",
+            "elType": "widget",
+            "settings": {
+              "shortcode": "[rev_slider alias='goverment']"
+            },
+            "elements": [],
+            "widgetType": "shortcode"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "75945d0",
+    "elType": "section",
+    "settings": {
+      "border_border": "solid",
+      "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "1",
+        "left": "0",
+        "isLinked": false
+      },
+      "border_color": "#eeeeee"
+    },
+    "elements": [
+      {
+        "id": "1561f21",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "b17e4c8",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 35
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "e6aa541",
+            "elType": "widget",
+            "settings": {
+              "title": "Discover The Smartcity",
+              "align": "center",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 31
+              },
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "a509219",
+            "elType": "widget",
+            "settings": {
+              "title": "Welcome to JNews government website",
+              "header_size": "p",
+              "align": "center",
+              "title_color": "#a0a0a0",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8b8ecc2",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "f782207",
+            "elType": "section",
+            "settings": {
+              "structure": "40"
+            },
+            "elements": [
+              {
+                "id": "8f1e330",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "fa83e05",
+                    "elType": "widget",
+                    "settings": {
+                      "icon": "fa fa-paper-plane",
+                      "title_text": "Business & Industry",
+                      "description_text": "Nullam cursus lacinia erat. In auctor lobortis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.",
+                      "primary_color": "#f25f23",
+                      "text_align": "left",
+                      "title_color": "#3d3935",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_family": "Lato",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 18
+                      },
+                      "description_color": "#3d3935",
+                      "description_typography_typography": "custom",
+                      "description_typography_font_family": "Lato",
+                      "description_typography_font_size": {
+                        "unit": "px",
+                        "size": 14
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4e2f708",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "9f58cd9",
+                    "elType": "widget",
+                    "settings": {
+                      "icon": "fa fa-camera",
+                      "title_text": "Tourism & Destination",
+                      "description_text": "Nullam cursus lacinia erat. In auctor lobortis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.",
+                      "primary_color": "#f25f23",
+                      "text_align": "left",
+                      "title_color": "#3d3935",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_family": "Lato",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 18
+                      },
+                      "description_color": "#3d3935",
+                      "description_typography_typography": "custom",
+                      "description_typography_font_family": "Lato",
+                      "description_typography_font_size": {
+                        "unit": "px",
+                        "size": 14
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "73930c3",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "8074972",
+                    "elType": "widget",
+                    "settings": {
+                      "icon": "fa fa-graduation-cap",
+                      "title_text": "Education & Training",
+                      "description_text": "Nullam cursus lacinia erat. In auctor lobortis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.",
+                      "primary_color": "#f25f23",
+                      "text_align": "left",
+                      "title_color": "#3d3935",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_family": "Lato",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 18
+                      },
+                      "description_color": "#3d3935",
+                      "description_typography_typography": "custom",
+                      "description_typography_font_family": "Lato",
+                      "description_typography_font_size": {
+                        "unit": "px",
+                        "size": 14
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "d733df2",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "ff243ab",
+                    "elType": "widget",
+                    "settings": {
+                      "icon": "fa fa-newspaper-o",
+                      "title_text": "Government & Programs",
+                      "description_text": "Nullam cursus lacinia erat. In auctor lobortis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.",
+                      "primary_color": "#f25f23",
+                      "text_align": "left",
+                      "title_color": "#3d3935",
+                      "title_typography_typography": "custom",
+                      "title_typography_font_family": "Lato",
+                      "title_typography_font_size": {
+                        "unit": "px",
+                        "size": 18
+                      },
+                      "description_color": "#3d3935",
+                      "description_typography_typography": "custom",
+                      "description_typography_font_family": "Lato",
+                      "description_typography_font_size": {
+                        "unit": "px",
+                        "size": 14
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "933b767",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 40
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "13e0ef5",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "0cc6f16",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "c2c9ba5",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "7ca053d",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "4f1cfd4",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "068c771",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Citizen Assessment of Government",
+                      "title_color": "#3d3935",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Work Sans",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 36
+                      },
+                      "typography_font_weight": "700",
+                      "typography_line_height": {
+                        "unit": "px",
+                        "size": 48
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "2fb877f",
+                    "elType": "widget",
+                    "settings": {
+                      "weight": {
+                        "unit": "px",
+                        "size": 3
+                      },
+                      "color": "#f25f23",
+                      "width": {
+                        "unit": "%",
+                        "size": 15
+                      },
+                      "gap": {
+                        "unit": "px",
+                        "size": 10
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  },
+                  {
+                    "id": "560c26b",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.</p><p>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>",
+                      "align": "justify",
+                      "text_color": "#3d3935",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Lato"
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0c68729",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "e70df46",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#262626",
+              "gap": {
+                "unit": "px",
+                "size": 20
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3c92f4b",
+    "elType": "section",
+    "settings": {
+      "border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "1",
+        "left": "0",
+        "isLinked": false
+      },
+      "border_color": "#eeeeee"
+    },
+    "elements": [
+      {
+        "id": "5e366c5",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "08cdf4b",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "26c7f70",
+            "elType": "widget",
+            "settings": {
+              "title": "Government News\n",
+              "align": "center",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 31
+              },
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "5210a59",
+            "elType": "widget",
+            "settings": {
+              "title": "Latest city and government news.\n\n",
+              "header_size": "p",
+              "align": "center",
+              "title_color": "#a0a0a0",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "7ea0708",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "f0eee67",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "22d8992",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "acb8d5a",
+                    "elType": "widget",
+                    "settings": {
+                      "header_filter_text": "All",
+                      "number_post": {
+                        "unit": "px",
+                        "size": 3
+                      },
+                      "unique_content": "unique1",
+                      "date_format_custom": "Y/m/d"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_block_14_elementor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "2239d9b",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "408d4cb",
+                    "elType": "widget",
+                    "settings": {
+                      "header_filter_text": "All",
+                      "number_post": {
+                        "unit": "px",
+                        "size": 3
+                      },
+                      "unique_content": "unique1",
+                      "date_format_custom": "Y/m/d"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_block_14_elementor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "b52c3c0",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 40
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "38bd424",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#3d3935"
+    },
+    "elements": [
+      {
+        "id": "ea14878",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "3ec9a68",
+            "elType": "widget",
+            "settings": {
+              "title": "Local Events\n",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 31
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "40",
+                "right": "0",
+                "bottom": "35",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8a12289",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "number_post": {
+                "unit": "px",
+                "size": 4
+              },
+              "unique_content": "unique1",
+              "date_format_custom": "Y/m/d",
+              "pagination_mode": "nextprev",
+              "scheme": "alt",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_22_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "57951d9",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "88efbfc",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "55387a9",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "86cd981",
+            "elType": "section",
+            "settings": {
+              "gap": "wide",
+              "structure": "30"
+            },
+            "elements": [
+              {
+                "id": "92770cf",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 25
+                },
+                "elements": [
+                  {
+                    "id": "f5db875",
+                    "elType": "widget",
+                    "settings": {
+                      "first_title": "Programs",
+                      "header_type": "heading_7",
+                      "header_filter_text": "All",
+                      "number_post": {
+                        "unit": "px",
+                        "size": 2
+                      },
+                      "unique_content": "unique1",
+                      "date_format_custom": "Y/m/d",
+                      "column_width": "4"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_block_9_elementor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "c2da536",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 50
+                },
+                "elements": [
+                  {
+                    "id": "38eebe9",
+                    "elType": "widget",
+                    "settings": {
+                      "first_title": "National News",
+                      "header_type": "heading_7",
+                      "header_filter_text": "All",
+                      "number_post": {
+                        "unit": "px",
+                        "size": 1
+                      },
+                      "unique_content": "unique1",
+                      "date_format_custom": "Y/m/d",
+                      "excerpt_ellipsis": "..."
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_block_10_elementor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a6164cc",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "_inline_size": 24.996
+                },
+                "elements": [
+                  {
+                    "id": "e4b6393",
+                    "elType": "widget",
+                    "settings": {
+                      "first_title": "Education",
+                      "header_type": "heading_7",
+                      "header_filter_text": "All",
+                      "number_post": {
+                        "unit": "px",
+                        "size": 3
+                      },
+                      "unique_content": "unique1",
+                      "date_format_custom": "Y/m/d"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_block_31_elementor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "03882ee",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:appbg2:url:full}}",
+        "id": "{{image:appbg2:id}}"
+      },
+      "background_position": "center center",
+      "background_repeat": "no-repeat",
+      "background_size": "auto"
+    },
+    "elements": [
+      {
+        "id": "4626459",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "973a561",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "8018026",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "0be32c8",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "c99eacc",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Available on App Store and Google Play Store",
+                      "header_size": "h3",
+                      "align": "left",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Work Sans",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 18
+                      },
+                      "typography_font_weight": "400",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "-20",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "b8eaaa2",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Contribute to your city Download App now",
+                      "align": "left",
+                      "title_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Work Sans",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 44
+                      },
+                      "typography_font_weight": "700",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "40",
+                        "right": "0",
+                        "bottom": "35",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "ba4b65a",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "be40dd9",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:google-play:url:full}}",
+                        "id": "{{image:google-play:id}}"
+                      },
+                      "image_size": "full",
+                      "align": "left",
+                      "_css_classes": "jeg_image_inline"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "82f5aee",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:app-store:url:full}}",
+                        "id": "{{image:app-store:id}}"
+                      },
+                      "image_size": "full",
+                      "align": "left",
+                      "css_filters_css_filter": "custom",
+                      "_css_classes": "jeg_image_inline"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "5649d64",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 20
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a6a0zzz",
+    "elType": "section",
+    "elements": [
+      {
+        "id": "a45102d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "b17e4c8",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 50
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

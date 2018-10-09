@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ffff7a2",
+    "elType": "section",
+    "settings": {
+      "gap": "extended",
+      "structure": "21"
+    },
+    "elements": [
+      {
+        "id": "1e9ec6b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "2c505b3",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Mail Address",
+              "header_type": "heading_7"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "bb97abb",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Jegtheme Studio<br>36B Sunset Road,<br>Bali, Indonesia 80115<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "986da05",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Contact Information",
+              "header_type": "heading_7"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "edc816a",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>P. (0361) 888 1234<br>F. (0361) 888 1235<br>Email:\u00a0contact@yourwebsite.com<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "83b8b5e",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Location",
+              "header_type": "heading_7"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "57f4be1",
+            "elType": "widget",
+            "settings": {
+              "address": "London Eye, London, United Kingdom",
+              "height": {
+                "unit": "px",
+                "size": 500
+              }
+            },
+            "elements": [],
+            "widgetType": "google_maps"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "2a4253a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "10b5a48",
+            "elType": "widget",
+            "settings": {
+              "title": "Contact Us",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 50
+              },
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "687fc5b",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#ebebeb"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "7af66b2",
+            "elType": "widget",
+            "settings": {
+              "title": "Get in touch",
+              "header_size": "h3",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "em",
+                "size": 1.65
+              },
+              "typography_font_weight": "700"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8617aa2",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Vivamus elementum semper nisi. Pellentesque dapibus hendrerit tortor. Ut non enim eleifend felis pretium feugiat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce commodo aliquam arcu.<\/p><br><br>[contact-form-7 id='532' title='Contact form 1']<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

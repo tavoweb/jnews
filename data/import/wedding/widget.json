@@ -1,0 +1,62 @@
+{
+  "default-sidebar": {
+    "jnews_about-3": {
+      "title": "About",
+      "aboutimg": "{{image:about:id}}",
+      "aboutimgretina": "",
+      "aboutname": "",
+      "aboutoccupation": "",
+      "aboutdesc": "Hi there! Welcome to the Wedding blog; a journal about marriage and life. Stay a while and do say hello if you please!",
+      "signature": "331",
+      "signatureretina": "144",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    },
+    "jnews_social-2": {
+      "title": "",
+      "widgetstyle": "nobg",
+      "icon_color": "",
+      "bg_color": "",
+      "beforesocial": "",
+      "aftersocial": "",
+      "account": "%5B%7B%22social_icon%22%3A%22facebook%22%2C%22social_url%22%3A%22https%3A%2F%2Fwww.facebook.com%2Fjegtheme%2F%22%7D%2C%7B%22social_icon%22%3A%22twitter%22%2C%22social_url%22%3A%22https%3A%2F%2Ftwitter.com%2Fjegtheme%22%7D%2C%7B%22social_icon%22%3A%22instagram%22%2C%22social_url%22%3A%22http%3A%2F%2Finstagram.com%2Fjegtheme%22%7D%5D",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    },
+    "search-2": {
+      "title": "",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_1",
+      "header_background": "",
+      "header_text_color": ""
+    },
+    "jnews_recent_news-2": {
+      "title": "Recently Added",
+      "postnumber": "3",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    },
+    "jnews_popular-2": {
+      "title": "Popular Posts",
+      "limit": "5",
+      "order_by": "views",
+      "range": "all",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": "",
+      "widget_class": ""
+    }
+  }
+}

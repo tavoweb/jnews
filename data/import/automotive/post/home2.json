@@ -1,0 +1,351 @@
+[
+  {
+    "id": "79ff0e9",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "-30",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "f5cf9bf",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "HF0DT2U",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "date_format_custom": "Y\/m\/d"
+            },
+            "elements": [],
+            "widgetType": "jnews_slider_6_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5d6f720",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "378a258",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "WD3weNN",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_8",
+              "content_type": "review",
+              "number_post": {
+                "unit": "px",
+                "size": 3
+              },
+              "first_title": "Car Review",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_9_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "bad5076",
+    "elType": "section",
+    "settings": {
+      "structure": "22"
+    },
+    "elements": [
+      {
+        "id": "d5d4726",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "81ca779",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#ebebeb"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "6y6FuhD",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_8",
+              "content_type": "post",
+              "number_post": {
+                "unit": "px",
+                "size": 1
+              },
+              "excerpt_length": {
+                "unit": "px",
+                "size": 36
+              },
+              "first_title": "News index",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "..."
+            },
+            "elements": [],
+            "widgetType": "jnews_block_12_elementor"
+          },
+          {
+            "id": "iuX849a",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "content_type": "post",
+              "number_post": {
+                "unit": "px",
+                "size": 5
+              },
+              "post_offset": {
+                "unit": "px",
+                "size": 1
+              },
+              "pagination_mode": "loadmore",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "column_width": "8"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_5_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "588245e",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "sticky_sidebar": "yes",
+          "padding": {
+            "unit": "px",
+            "top": "10",
+            "right": "0",
+            "bottom": "0",
+            "left": "15",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "6b5efd1",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#ebebeb"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "9bdb774",
+            "elType": "widget",
+            "settings": {
+              "youtube_url": "https:\/\/www.youtube.com\/watch?v=5rwhxPlTOoU",
+              "vimeo_url": "https:\/\/vimeo.com\/235215203",
+              "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6koazf"
+            },
+            "elements": [],
+            "widgetType": "video"
+          },
+          {
+            "id": "f3860f7",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#ebebeb"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "Nzgveg8",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_8",
+              "content_type": "post",
+              "number_post": {
+                "unit": "px",
+                "size": 5
+              },
+              "include_category": "{{category:news:id}}",
+              "exclude_category": "{{category:review:id}}",
+              "sort_by": "oldest",
+              "excerpt_ellipsis": "",
+              "first_title": "Editor's Pick",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "column_width": "4"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_4_elementor"
+          },
+          {
+            "id": "7j24W5A",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "ads_type": "image",
+              "ads_image": {
+                "url": "{{image:ad_345x345:url:full}}",
+                "id": "{{image:ad_345x345:id}}"
+              },
+              "ads_image_link": "#",
+              "ads_image_tablet": {
+                "url": "{{image:ad_345x345:url:full}}",
+                "id": "{{image:ad_345x345:id}}"
+              },
+              "ads_image_phone": {
+                "url": "{{image:ad_345x345:url:full}}",
+                "id": "{{image:ad_345x345:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_ads_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "zVbXOcj",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#fbb731",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "-40",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "30",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "PAb2Ip6",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "cda8245",
+            "elType": "widget",
+            "settings": {
+              "title": "Videos",
+              "title_color": "#1c1c1c",
+              "typography_typography": "custom",
+              "typography_font_family": "Roboto Condensed",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 44
+              },
+              "typography_font_weight": "700",
+              "typography_text_transform": "none"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fd90bd1",
+            "elType": "widget",
+            "settings": {
+              "title": "Provided by TopGear, via YouTube",
+              "header_size": "p",
+              "title_color": "#53585c",
+              "typography_typography": "custom",
+              "typography_font_family": "Roboto Condensed",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bTnhstX",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "hero_margin": {
+                "unit": "px",
+                "size": 10
+              },
+              "content_type": "post",
+              "content_filter_number_alert": "",
+              "include_category": "{{category:video:id}}",
+              "date_format_custom": "Y\/m\/d"
+            },
+            "elements": [],
+            "widgetType": "jnews_hero_skew_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

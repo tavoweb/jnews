@@ -1,0 +1,373 @@
+[
+  {
+    "id": "fcb168b",
+    "elType": "section",
+    "settings": {
+      "layout": "full_width",
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "-30",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "2a3cc64",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "bae34ca",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "jnews_slider_overlay_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "914aaa3",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "c8b4c73",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "46bb7ee",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7e9b09a",
+    "elType": "section",
+    "settings": {
+      "structure": "22"
+    },
+    "elements": [
+      {
+        "id": "94a880a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "vdeehij",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_1",
+              "header_filter_category": "{{category:program:id}},{{category:event:id}},{{category:education:id}},{{category:technology:id}}",
+              "post_offset": {
+                "unit": "px",
+                "size": 0
+              },
+              "unique_content": "unique1",
+              "first_title": "Press",
+              "second_title": "Release",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "column_width": "8"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_2_elementor"
+          },
+          {
+            "id": "Aps9Dsw",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "header_type": "heading_1",
+              "number_post": {
+                "unit": "px",
+                "size": 3
+              },
+              "post_offset": {
+                "unit": "px",
+                "size": 0
+              },
+              "unique_content": "unique1",
+              "first_title": "Recent",
+              "second_title": "Stories",
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "column_width": "8"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_6_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "1e40f1c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "sticky_sidebar": "yes",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "67690e1",
+            "elType": "widget",
+            "settings": {
+              "editor": "[mc4wp_form]"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "4qdqrVb",
+            "elType": "widget",
+            "settings": {
+              "sidebar": "home-loop"
+            },
+            "elements": [],
+            "widgetType": "sidebar"
+          },
+          {
+            "id": "h68nQaM",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "number_item": {
+                "unit": "px",
+                "size": 1
+              },
+              "margin": {
+                "unit": "px",
+                "size": 0
+              },
+              "post_offset": {
+                "unit": "px",
+                "size": 0
+              },
+              "unique_content": "unique1",
+              "show_nav": "true",
+              "enable_autoplay": "true",
+              "date_format_custom": "Y\/m\/d"
+            },
+            "elements": [],
+            "widgetType": "jnews_carousel_2_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "ca561b2",
+    "elType": "section",
+    "settings": {
+      "structure": "21",
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:education:url:full}}",
+        "id": "{{image:education:id}}"
+      },
+      "background_position": "center center",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#49008e",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.81
+      }
+    },
+    "elements": [
+      {
+        "id": "ae01cdc",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "content_position": "center"
+        },
+        "elements": [
+          {
+            "id": "534cc9e",
+            "elType": "widget",
+            "settings": {
+              "title": "Activities in",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Istok Web",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 22
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "px",
+                "size": 16
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e08005e",
+            "elType": "widget",
+            "settings": {
+              "title": "<b>School<\/b> News",
+              "header_size": "h4",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Istok Web",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 35
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "px",
+                "size": 25
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1c1a736",
+            "elType": "widget",
+            "settings": {
+              "title": "See all videos on youtube..",
+              "header_size": "p",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Open Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "normal",
+              "typography_line_height": {
+                "unit": "px",
+                "size": 25
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fc3646e",
+            "elType": "widget",
+            "settings": {
+              "text": "More Videos",
+              "background_color": "#ffb703",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "a8d29ae",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null,
+          "background_background": "classic",
+          "background_color": "#ffffff"
+        },
+        "elements": [
+          {
+            "id": "cSlH5AW",
+            "elType": "widget",
+            "settings": {
+              "compatible_column_notice": "",
+              "layout": "horizontal",
+              "playlist": "https:\/\/www.youtube.com\/watch?v=uXFUl0KcIkA, https:\/\/www.youtube.com\/watch?v=UFW-A-2-sM4, https:\/\/www.youtube.com\/watch?v=jMWrsRNveSI, https:\/\/www.youtube.com\/watch?v=Atxk27YJ6_I, https:\/\/www.youtube.com\/watch?v=oywafR1C6y0",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_embedplaylist_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "8563e97",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "49e09b8",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "c6a0bc2",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 30
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

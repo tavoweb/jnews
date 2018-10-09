@@ -1,0 +1,641 @@
+[
+  {
+    "id": "faa5713",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:travelbg:url:full}}",
+        "id": "{{image:travelbg:id}}"
+      },
+      "background_position": "center center",
+      "background_attachment": "scroll",
+      "background_repeat": "no-repeat",
+      "background_size": "auto",
+      "height": "full",
+      "margin": {
+        "unit": "px",
+        "top": "-30",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "899af35",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "ff57917",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:lettering:url:full}}",
+                "id": "{{image:lettering:id}}"
+              },
+              "image_size": "full",
+              "align": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "4fecb77",
+            "elType": "widget",
+            "settings": {
+              "text": "GET TO KNOW ME",
+              "link": {
+                "url": "#next",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "align": "center",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "background_color": "rgba(255,255,255,0)",
+              "button_background_hover_color": "#e89005",
+              "button_hover_border_color": "#e89005",
+              "border_border": "solid",
+              "border_width": {
+                "unit": "px",
+                "top": "2",
+                "right": "2",
+                "bottom": "2",
+                "left": "2",
+                "isLinked": true
+              },
+              "border_color": "#ffffff",
+              "border_radius": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [],
+            "widgetType": "button"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b7cf32",
+    "elType": "section",
+    "settings": {
+      "_element_id": "next"
+    },
+    "elements": [
+      {
+        "id": "bca980e",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "5fbe9ff",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 40
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "39158d3",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "f7532a3",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "f4425f4",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:travel3:url:full}}",
+                        "id": "{{image:travel3:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a8a599c",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null,
+                  "content_position": "center",
+                  "space_between_widgets": 20,
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "50",
+                    "bottom": "0",
+                    "left": "50",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "485eb02",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Hi! My name is Trinity and my life is about adventure.",
+                      "title_color": "#18120e",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Lora",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 38
+                      },
+                      "typography_font_weight": "700",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.2
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "a3cec63",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "Morbi mattis ullamcorper velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In auctor lobortis lacus. Mauris sollicitudin fermentum libero. Pellentesque posuere.",
+                      "text_color": "#18120e",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Lato",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 14
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "7f79ef6",
+                    "elType": "widget",
+                    "settings": {
+                      "text": "ABOUT ME",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Lato",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 12
+                      },
+                      "background_color": "#18120e",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "button"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "b5ea445",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "f3be970",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "1f86a88",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 20
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "ea4de22",
+            "elType": "widget",
+            "settings": {
+              "title": "As Seen On:",
+              "align": "center",
+              "title_color": "#18120e",
+              "typography_typography": "custom",
+              "typography_font_family": "Lora",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 25
+              },
+              "typography_font_weight": "700",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "4018871",
+            "elType": "section",
+            "settings": {
+              "structure": "50"
+            },
+            "elements": [
+              {
+                "id": "ac16274",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 20,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "fbd3112",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:bbc:url:full}}",
+                        "id": "{{image:bbc:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0b215d4",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 20,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "9d6a007",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:cnn:url:full}}",
+                        "id": "{{image:cnn:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "bf1b405",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 20,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "cc1f0e3",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:natgeo:url:full}}",
+                        "id": "{{image:natgeo:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6531211",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 20,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "c13063c",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:nyt:url:full}}",
+                        "id": "{{image:nyt:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0610df2",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 20,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "7ad84dc",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "{{image:thp:url:full}}",
+                        "id": "{{image:thp:id}}"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "98c9a0c",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "d1b7577",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "8e3b12f",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 30
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "287cb1b",
+    "elType": "section",
+    "settings": {
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "83c0b53",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "0bacd78",
+            "elType": "widget",
+            "settings": {
+              "title": " Destinations",
+              "second_title": "Where to go next",
+              "title_url": "#",
+              "image": {
+                "url": "{{image:travel1:url:full}}",
+                "id": "{{image:travel1:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_blocklink_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "b40291a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "6aefa7f",
+            "elType": "widget",
+            "settings": {
+              "title": " Food & Drink",
+              "second_title": "Taste local foods & drinks",
+              "title_url": "#",
+              "image": {
+                "url": "{{image:travel2:url:full}}",
+                "id": "{{image:travel2:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_blocklink_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "aa4077a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "9a7aa6e",
+            "elType": "widget",
+            "settings": {
+              "title": " Photography",
+              "second_title": "Best moment captured",
+              "title_url": "#",
+              "image": {
+                "url": "{{image:travel3:url:full}}",
+                "id": "{{image:travel3:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_blocklink_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6b42839",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "235109d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "1b59e1d",
+            "elType": "widget",
+            "settings": {
+              "editor": "[mc4wp_form]",
+              "_padding": {
+                "unit": "px",
+                "top": "30",
+                "right": "30",
+                "bottom": "30",
+                "left": "30",
+                "isLinked": true
+              },
+              "_background_background": "classic",
+              "_background_color": "#2c2119"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "1bc3986",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 30
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "66ae815",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "035b11f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "5020073",
+            "elType": "widget",
+            "settings": {
+              "title": "Latest Blog Updates",
+              "align": "center",
+              "title_color": "#18120e",
+              "typography_typography": "custom",
+              "typography_font_family": "Lora",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 25
+              },
+              "typography_font_weight": "700",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "729bdf1",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "unique_content": "unique1",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "pagination_mode": "scrollload",
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_35_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

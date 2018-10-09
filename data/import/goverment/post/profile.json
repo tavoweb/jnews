@@ -1,0 +1,670 @@
+[
+  {
+    "id": "8b2477b",
+    "elType": "section",
+    "settings": {
+      "gap": "wider",
+      "structure": "21"
+    },
+    "elements": [
+      {
+        "id": "e834457",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "sticky_sidebar": "yes"
+        },
+        "elements": [
+          {
+            "id": "9a2d8b5",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Navigation",
+              "header_type": "heading_7"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "454e33b",
+            "elType": "widget",
+            "settings": {
+              "title": "Introduction",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "10",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "8bec48d",
+            "elType": "widget",
+            "settings": {
+              "title": "Geography",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "2f35f97",
+            "elType": "widget",
+            "settings": {
+              "title": "History",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "71bda60",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "448d725",
+            "elType": "widget",
+            "settings": {
+              "first_title": "Categories",
+              "header_type": "heading_7"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "3ef5b8f",
+            "elType": "widget",
+            "settings": {
+              "title": "Campaign",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "01b96a4",
+            "elType": "widget",
+            "settings": {
+              "title": "Education",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "80dc402",
+            "elType": "widget",
+            "settings": {
+              "title": "National",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "1cc16f5",
+            "elType": "widget",
+            "settings": {
+              "title": "Politics",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "4874c97",
+            "elType": "widget",
+            "settings": {
+              "title": "Social Media",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "acd8e41",
+            "elType": "widget",
+            "settings": {
+              "title": "Travel",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "size": "medium",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "-5",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "10",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "1",
+                "left": "0",
+                "isLinked": false
+              },
+              "_border_color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "563f135",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "5552014",
+            "elType": "widget",
+            "settings": {
+              "title": "Goverment Profile",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 50
+              },
+              "typography_font_weight": "700",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "48ba982",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:goverment8:url:full}}",
+                "id": "{{image:goverment8:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "8b6ed6c",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Vestibulum ullamcorper mauris at ligula. Praesent vestibulum dapibus nibh. Donec posuere vulputate arcu. Donec vitae orci sed dolor rutrum auctor. Nulla facilisi. Sed augue ipsum, egestas nec, vestibulum et, malesuada adipiscing, dui. Phasellus a est. Vestibulum volutpat pretium libero.<\/p><br><p>Curabitur ullamcorper ultricies nisi. Duis lobortis massa imperdiet quam. Proin pretium, leo ac pellentesque mollis, felis nunc ultrices eros, sed gravida augue augue mollis justo. Praesent ac sem eget est egestas volutpat. Nullam tincidunt adipiscing enim.<\/p><br><p>In ac felis quis tortor malesuada pretium. Suspendisse potenti. Fusce fermentum odio nec arcu. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "8b43c0e",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "644ca83",
+            "elType": "widget",
+            "settings": {
+              "title": "Geography",
+              "header_size": "h3",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "79bb1dc",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Nulla facilisi. Cras varius. Vivamus aliquet elit ac nisl. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.<\/p><br><p>Suspendisse enim turpis, dictum sed, iaculis a, condimentum nec, nisi. Donec vitae orci sed dolor rutrum auctor. Nulla facilisi. Nam eget dui. Sed in libero ut nibh placerat accumsan.<\/p><br><p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Duis vel nibh at velit scelerisque suscipit. Sed fringilla mauris sit amet nibh. Quisque id mi. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.<\/p><br><p>Fusce commodo aliquam arcu. Aenean imperdiet. Fusce fermentum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi.<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "0cb237f",
+            "elType": "widget",
+            "settings": {
+              "weight": {
+                "unit": "px",
+                "size": 4
+              },
+              "color": "#eeeeee"
+            },
+            "elements": [],
+            "widgetType": "divider"
+          },
+          {
+            "id": "f790d5d",
+            "elType": "widget",
+            "settings": {
+              "title": "History",
+              "header_size": "h3",
+              "title_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Work Sans"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "bea8d6a",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Cras non dolor. Fusce fermentum odio nec arcu. Etiam imperdiet imperdiet orci. Cras non dolor. Vestibulum dapibus nunc ac augue. Nam pretium turpis et arcu. Phasellus ullamcorper ipsum rutrum nunc. Nullam dictum felis eu pede mollis pretium. Fusce egestas elit eget lorem. Nam eget dui.<\/p><br><p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Phasellus magna. Nunc nulla.<\/p><br><p>Praesent nec nisl a purus blandit viverra. Curabitur blandit mollis lacus. Sed in libero ut nibh placerat accumsan. Donec posuere vulputate arcu. Phasellus nec sem in justo pellentesque facilisis.<\/p><br><p>In hac habitasse platea dictumst. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Pellentesque ut neque. Nulla porta dolor. Maecenas egestas arcu quis ligula mattis placerat. Duis lobortis massa imperdiet quam. Vivamus laoreet. Nulla sit amet est. Duis leo. Aenean massa.<\/p>",
+              "text_color": "#3d3935",
+              "typography_typography": "custom",
+              "typography_font_family": "Lato",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 14
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "3ebd00c",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "bc27b42",
+            "elType": "widget",
+            "settings": {
+              "editor": "[mc4wp_form]"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

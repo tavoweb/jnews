@@ -1,0 +1,142 @@
+[
+  {
+    "id": "700a247",
+    "elType": "section",
+    "settings": {
+      "structure": "20"
+    },
+    "elements": [
+      {
+        "id": "225eb8c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "d9df9ff",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.<\/p><br><p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.<\/p><br><p><strong>The Journey Begin<\/strong><\/p><br><p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.<\/p><br><p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.<\/p>",
+              "text_color": "#2b2d38",
+              "typography_typography": "custom",
+              "typography_font_family": "Raleway",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 16
+              },
+              "typography_font_weight": "normal",
+              "typography_line_height": {
+                "unit": "px",
+                "size": 26
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "5032541",
+        "elType": "column",
+        "settings": {
+          "_column_size": 50,
+          "_inline_size": null,
+          "content_position": "center"
+        },
+        "elements": [
+          {
+            "id": "b0614bd",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:yoga10:url:full}}",
+                "id": "{{image:yoga10:id}}"
+              },
+              "image_size": "jnews-360x504",
+              "align": "center"
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4f612d6",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "83717af",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "9c04f52",
+            "elType": "widget",
+            "settings": {
+              "testimonial_content": "Most people have no idea how good their body is designed to feel.",
+              "testimonial_image": {
+                "url": "",
+                "id": ""
+              },
+              "testimonial_name": "",
+              "testimonial_job": "",
+              "content_content_color": "#161925",
+              "content_typography_typography": "custom",
+              "content_typography_font_family": "Lora",
+              "content_typography_font_size": {
+                "unit": "px",
+                "size": 36
+              },
+              "content_typography_font_weight": "400",
+              "content_typography_font_style": "italic",
+              "content_typography_line_height": {
+                "unit": "px",
+                "size": 50
+              },
+              "_padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "12",
+                "bottom": "0",
+                "left": "12",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "testimonial"
+          },
+          {
+            "id": "c754791",
+            "elType": "widget",
+            "settings": {
+              "color": "#8789c0",
+              "width": {
+                "unit": "%",
+                "size": 10
+              },
+              "align": "center",
+              "gap": {
+                "unit": "px",
+                "size": 2
+              }
+            },
+            "elements": [],
+            "widgetType": "divider"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

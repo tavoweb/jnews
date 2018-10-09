@@ -1,0 +1,108 @@
+[
+  {
+    "id": "09a321e",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:footerbg:url:full}}",
+        "id": "{{image:footerbg:id}}"
+      },
+      "background_position": "center center",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": true
+      },
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "80",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "7371f18",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "b0c2572",
+            "elType": "widget",
+            "settings": {
+              "wp": {
+                "title": "",
+                "aboutimg": "{{image:logo:id}}",
+                "aboutimgretina": "{{image:logo2x:id}}",
+                "aboutname": "",
+                "aboutoccupation": "",
+                "aboutdesc": "",
+                "signature": "",
+                "signatureretina": "",
+                "align": "1"
+              }
+            },
+            "elements": [],
+            "widgetType": "wp-widget-jnews_about"
+          },
+          {
+            "id": "3602c2e",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "78aabff",
+            "elType": "widget",
+            "settings": {
+              "text_color": "#474448",
+              "_css_classes": "jeg_aligncenter"
+            },
+            "elements": [],
+            "widgetType": "jnews_footer_menu_elementor"
+          },
+          {
+            "id": "c5fefe0",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Copyright © JNews. Crafted with love by Jegtheme.<\/p>",
+              "text_color": "#53585c"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "50d47bd",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 80
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

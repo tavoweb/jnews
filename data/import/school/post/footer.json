@@ -1,0 +1,251 @@
+[
+  {
+    "id": "f5f0aee",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:school5:url:full}}",
+        "id": "{{image:school5:id}}"
+      },
+      "background_position": "center center",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_overlay_background": "classic",
+      "background_overlay_color": "#5c308f",
+      "background_overlay_opacity": {
+        "unit": "px",
+        "size": 0.94
+      },
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "eb8a225",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "2301c07",
+            "elType": "section",
+            "settings": {
+              "structure": "40"
+            },
+            "elements": [
+              {
+                "id": "1aaad9b",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": 40
+                },
+                "elements": [
+                  {
+                    "id": "e533e54",
+                    "elType": "widget",
+                    "settings": {
+                      "wp": {
+                        "title": "",
+                        "aboutimg": "{{image:footer-logo:id}}",
+                        "aboutimgretina": "{{image:footer-logo2x:id}}",
+                        "aboutname": "",
+                        "aboutoccupation": "",
+                        "aboutdesc": "We bring you the best Premium WordPress Themes that perfect for news, magazine, personal blog, etc. Check our landing page for details.",
+                        "signature": "",
+                        "signatureretina": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "wp-widget-jnews_about"
+                  },
+                  {
+                    "id": "95e657b",
+                    "elType": "widget",
+                    "settings": {
+                      "social_icon": "rounded",
+                      "icon_background": "rgba(113,63,175,0.96)",
+                      "icon_hover_background": "rgba(95,29,175,0.96)"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_footer_social_elementor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "93e1d96",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": 20
+                },
+                "elements": [
+                  {
+                    "id": "b1ef4f2",
+                    "elType": "widget",
+                    "settings": {
+                      "wp": {
+                        "title": "Navigation",
+                        "nav_menu": "53"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "wp-widget-nav_menu"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4b496d0",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": 20
+                },
+                "elements": [
+                  {
+                    "id": "89af739",
+                    "elType": "widget",
+                    "settings": {
+                      "wp": {
+                        "title": "Categories",
+                        "nav_menu": "51"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "wp-widget-nav_menu"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "424a4ee",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": 20
+                },
+                "elements": [
+                  {
+                    "id": "7224405",
+                    "elType": "widget",
+                    "settings": {
+                      "wp": {
+                        "title": "Sites",
+                        "nav_menu": "52"
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "wp-widget-nav_menu"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "5580ea7",
+            "elType": "section",
+            "settings": [],
+            "elements": [
+              {
+                "id": "4b4a984",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 100,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "b131c5f",
+                    "elType": "widget",
+                    "settings": {
+                      "color": "#eee",
+                      "gap": {
+                        "unit": "px",
+                        "size": 2
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "divider"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "dff6fa8",
+            "elType": "section",
+            "settings": {
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "27191d4",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "631fb2f",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "\u00a9 2018 JNews \u2013 Premium WordPress news & magazine theme by Jegtheme.",
+                      "text_color": "#ffffff",
+                      "typography_typography": "custom",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 13
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "0317217",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "426b933",
+                    "elType": "widget",
+                    "settings": {
+                      "text_color": "#ffffff",
+                      "hover_text_color": "#ffb703"
+                    },
+                    "elements": [],
+                    "widgetType": "jnews_footer_menu_elementor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

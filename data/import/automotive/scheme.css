@@ -1,0 +1,364 @@
+.jeg_main_menu > li > a{
+	line-height: 40px;
+}
+
+.jeg_main_menu > li > a{
+	font-weight: normal;
+	letter-spacing: .1em;
+}
+
+.jeg_midbar .jeg_search_no_expand .jeg_search_input{
+	font-size: 13px;
+}
+
+.jeg_search_wrapper .jeg_search_input{
+	height: 30px;
+}
+
+.jeg_search_result .jeg_post:not(:last-child){
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eee;
+}
+
+.jeg_pl_xs_3 .jeg_post_title{
+	font-weight: bold;
+}
+
+.jeg_pl_xs_3 .jeg_post_meta{
+	font-size: 13px;
+}
+
+.dark .jeg_search_result.with_result .search-all-button{
+	background: #FBB731;
+	border-color: transparent;
+	color: #1c1c1c;
+}
+
+.jeg_search_result{
+	border: none;
+}
+
+.jeg_heroblock .jeg_post_category a,.jeg_thumb .jeg_post_category a{
+	font-size: 13px;
+	font-weight: bold;
+	padding: 6px 8px;
+	letter-spacing: 0;
+}
+
+.jeg_thumb .jeg_post_category{
+	bottom: 0;
+}
+
+.jeg_post_meta{
+	font-family: 'Bitter';
+	font-size: 13px;
+	text-transform: none;
+}
+
+.jeg_post_meta > div:not(:last-of-type){
+	margin-right: 8px;
+	padding-right: 13px;
+}
+
+.jeg_post_meta .jeg_meta_author .by{
+	text-transform: capitalize;
+}
+
+.jeg_post_meta .fa{
+	margin-right: 3px;
+}
+
+.entry-header .jeg_meta_comment a,.entry-header .jeg_meta_like a{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.jeg_heroblock_13 .jeg_post_title{
+	font-size: 38px;
+	line-height: 1.2em;
+}
+
+.jeg_heroblock_13.jeg_hero_style_7 .jeg_post_title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.jeg_heroblock_13.jeg_hero_style_7 .jeg_postblock_content{
+	background: #fff;
+	bottom: 0;
+}
+
+.jeg_reviewdetail li > i{
+	top: 2px;
+}
+
+.entry-header .meta_right > .jeg_meta_like{
+	padding-right: 15px;
+	border-right: 1px solid #ddd;
+}
+
+.entry-content h1,.entry-content h2,.entry-content h3,.entry-content h4,.entry-content h5,.entry-content h6{
+	font-weight: bold;
+}
+
+.jnews_prev_next_container{
+	position: relative;
+}
+
+.jnews_prev_next_container:before{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 1px;
+	height: 100%;
+	background: #eee;
+}
+
+.jeg_prevnext_post{
+	border-bottom: 0;
+	margin-bottom: 0;
+}
+
+.jeg_prevnext_post span{
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #888;
+}
+
+.jeg_prevnext_post a{
+	display: inline-block;
+	float: none;
+	text-align: left;
+	padding: 0 30px 0 0;
+}
+
+.jeg_prevnext_post a.next-post{
+	padding-left: 30px;
+}
+
+.jeg_prevnext_post a:hover h3{
+	text-decoration: underline;
+}
+
+.jeg_prevnext_post h3{
+	font-family: 'Roboto Condensed';
+	font-size: 18px;
+	padding: 0;
+	border: none;
+}
+
+.comment-respond{
+	margin-top: 0;
+}
+
+.jeg_post_tags span{
+	text-transform: uppercase;
+}
+
+.jeg_pl_lg_card .jeg_postblock_content{
+	margin: 0;
+	padding: 30px;
+	background: #f2f2f2;
+}
+
+.jeg_pl_lg_card .jeg_post_title{
+	font-size: 38px;
+}
+
+.jeg_pl_lg_card .jeg_post_category a,.jeg_pl_md_card .jeg_post_category a{
+	font-size: 13px;
+}
+
+.jeg_pl_sm_2{
+	margin-bottom: 10px;
+}
+
+.jeg_pl_sm_2:after{
+	margin-top: 10px;
+	width: 100%;
+}
+
+.jeg_pl_sm_2 .jeg_post_title,.jeg_pl_md_box .jeg_post_title{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.jeg_pl_md_1 .jeg_post_title{
+	font-size: 22px;
+}
+
+.jeg_pl_md_5 .jeg_post_title{
+	font-size: 18px;
+}
+
+.jeg_readmore{
+	background: #FBB731;
+	color: #1c1c1c;
+	font-weight: bold;
+	box-shadow: none;
+	border: 0;
+	padding: 3px 7px;
+}
+
+.jeg_block_loadmore a{
+	font-size: 14px;
+	height: auto;
+	min-width: auto;
+	margin-top: 15px;
+	padding: 5px 20px;
+	border: 0;
+	border-radius: 1px;
+	box-shadow: none;
+	color: #fff;
+	background: #1c1c1c;
+}
+
+.jeg_block_loadmore a:before,.jeg_block_loadmore a:after{
+	display: none;
+}
+
+.jeg_block_heading_8 .jeg_block_title{
+	font-size: 28px;
+}
+
+.jeg_block_heading_2 .jeg_block_title{
+	font-size: 18px;
+}
+
+.jeg_postblock_3.jeg_col_1o3 .jeg_pl_md_2 .jeg_post_title,.jeg_postblock_4.jeg_col_1o3 .jeg_pl_md_3 .jeg_post_title{
+	font-size: 18px;
+}
+
+.jeg_footer .jeg_footer_heading h3,.jeg_sidebar h3.jeg_block_title{
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+
+.jeg_block_heading_2 .jeg_subcat_list>li>a{
+	font-size: 13px;
+}
+
+.jeg_subcat_list>li>a{
+	text-transform: unset;
+	font-weight: bold;
+}
+
+.jeg_footer p{
+	font-family: 'Bitter';
+	font-size: 14px;
+	line-height: 1.8em;
+}
+
+.jeg_block_heading_9{
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.jeg_pl_lg_card .jeg_post_excerpt{
+	margin-top: 20px;
+}
+
+.jeg_footer.dark input:not([type=submit]){
+	font-family: 'Bitter';
+	font-size: 1em;
+}
+
+.jeg_share_stats .counts{
+	font-size: 16px;
+}
+
+.jeg_share_button a{
+	height: 30px;
+	line-height: 30px;
+	flex: unset;
+	border-radius: 0;
+}
+
+.jeg_postblock_22.jeg_col_1o3 .jeg_post_title{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.jeg_block_heading_1 h3.jeg_block_title{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.jeg_video_playlist.jeg_horizontal_playlist.jeg_dark_playlist .owl-carousel .owl-stage{
+	background-color: #333;
+}
+
+.chosen-container-single .chosen-single{
+	line-height: 2.4em;
+}
+
+.entry-content blockquote,.entry-content q{
+	font-family: 'Roboto Condensed';
+	font-size: 24px;
+	line-height: 1.4em;
+	font-style: normal;
+	padding: 15px 40px 0;
+	border: none;
+	position: relative;
+}
+
+.entry-content blockquote:after,.entry-content q:after{
+	content: '"';
+	position: absolute;
+	top: 30px;
+	left: 0;
+	font-size: 64px;
+	color: #37a0ce;
+	font-family: Arial, Sans-Serif;
+	font-style: italic;
+}
+
+.jeg_hero_style_1 .jeg_thumb a>div:after{
+	display: none;
+}
+
+.jeg_search_result .jeg_mobile_bottombar.dark a{
+	color: #1c1c1c;
+}
+
+@media screen and (max-width: 768px){
+
+	.jeg_heroblock_13 .jeg_post_title{
+		font-size: 20px;
+	}
+	
+	.footer_column:last-child{
+		margin-bottom: 30px;
+	}
+	
+}
+
+@media screen and (max-width: 480px){
+
+	.jeg_postblock_12 .jeg_post_title{
+		font-size: 22px !important;
+	}
+	
+	.jeg_heroblock_13.jeg_hero_style_7 .jeg_post_title{
+		margin-top: 0;
+		margin-bottom: 0;
+		font-size: 20px !important;
+	}
+	
+	.jeg_heroblock .jeg_post_category{
+		display: none;
+	}
+	
+	.jeg_heroblock_13.jeg_hero_style_7 .jeg_postblock_content{
+		left: 15px;
+		right: 15px;
+	}
+	
+	.jnews_prev_next_container:before{
+		display: none;
+	}
+	
+}

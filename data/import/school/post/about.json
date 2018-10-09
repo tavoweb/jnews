@@ -1,0 +1,344 @@
+[
+  {
+    "id": "f2b6ef6",
+    "elType": "section",
+    "settings": {
+      "gap": "extended",
+      "structure": "22"
+    },
+    "elements": [
+      {
+        "id": "36c90ea",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "7f01f9f",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:about:url:full}}",
+                "id": "{{image:about:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "ec46fe4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "e059029",
+            "elType": "widget",
+            "settings": {
+              "title": "About <b>School News...<\/b>",
+              "header_size": "h1",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Oxygen",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 47
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "px",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "c05cc47",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.<\/p><br><p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name.<\/p>"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "29e734a",
+    "elType": "section",
+    "settings": {
+      "gap": "extended"
+    },
+    "elements": [
+      {
+        "id": "91c42f4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "0417a15",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "efb2d32",
+            "elType": "widget",
+            "settings": {
+              "title": "Providing the <b>Best Education.<\/b>",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Oxygen",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "eb463bb",
+            "elType": "widget",
+            "settings": {
+              "editor": "And if she hasn\u2019t been rewritten, then they are still using her. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "03238f2",
+    "elType": "section",
+    "settings": {
+      "structure": "30"
+    },
+    "elements": [
+      {
+        "id": "2dd6508",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "2c391d5",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:about1:url:full}}",
+                "id": "{{image:about1:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "1bc52b4",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "af01a78",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:about2:url:full}}",
+                "id": "{{image:about2:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "92056d3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "cafa0aa",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:about3:url:full}}",
+                "id": "{{image:about3:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "5e17f24",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "4796656",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "612732b",
+            "elType": "widget",
+            "settings": {
+              "editor": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove."
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "80e50e9",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "2d6c420",
+            "elType": "widget",
+            "settings": {
+              "title": "Our <b>Story.<\/b>",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Oxygen",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "e0aa969",
+            "elType": "widget",
+            "settings": {
+              "editor": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way."
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "db6fc6a",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 10
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "c91ce93",
+            "elType": "widget",
+            "settings": {
+              "title": "Get in <b>Touch.<\/b>",
+              "title_color": "#212121",
+              "typography_typography": "custom",
+              "typography_font_family": "Oxygen",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 34
+              },
+              "typography_font_weight": "400"
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "9389856",
+            "elType": "widget",
+            "settings": {
+              "address": "London Eye, London, United Kingdom"
+            },
+            "elements": [],
+            "widgetType": "google_maps"
+          },
+          {
+            "id": "4cbd13b",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p>Click the link below to submit criticism and suggestions to us.<\/p>",
+              "align": "center"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "c713c67",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p><a href='#'>Contact Us<\/a><\/p>",
+              "align": "center",
+              "text_color": "#000000",
+              "typography_typography": "custom",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 20
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

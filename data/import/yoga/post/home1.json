@@ -1,0 +1,336 @@
+[
+  {
+    "id": "bb21272",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "ca76119",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "f249e69",
+            "elType": "widget",
+            "settings": {
+              "hero_margin": {
+                "unit": "px",
+                "size": 20
+              },
+              "date_format_custom": "Y\/m\/d",
+              "unique_content": "unique1"
+            },
+            "elements": [],
+            "widgetType": "jnews_hero_5_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "f149023",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic"
+    },
+    "elements": [
+      {
+        "id": "2ee655c",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "background_background": "classic",
+          "background_color": "#e4f9f3"
+        },
+        "elements": [
+          {
+            "id": "23a2b7a",
+            "elType": "widget",
+            "settings": {
+              "editor": "[mc4wp_form]",
+              "_padding": {
+                "unit": "px",
+                "top": "25",
+                "right": "30",
+                "bottom": "25",
+                "left": "30",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "95518b4",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "95a88ed",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "bb289a7",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 30
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "9285f24",
+    "elType": "section",
+    "settings": {
+      "gap": "extended",
+      "structure": "22"
+    },
+    "elements": [
+      {
+        "id": "b6854c5",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "0c14030",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "number_post": {
+                "unit": "px",
+                "size": 1
+              },
+              "unique_content": "unique1",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "..."
+            },
+            "elements": [],
+            "widgetType": "jnews_block_5_elementor"
+          },
+          {
+            "id": "381d5bc",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "number_post": {
+                "unit": "px",
+                "size": 3
+              },
+              "unique_content": "unique1",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "..."
+            },
+            "elements": [],
+            "widgetType": "jnews_block_3_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "b42dc4b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "a680651",
+            "elType": "widget",
+            "settings": {
+              "ads_type": "image",
+              "ads_image": {
+                "url": "{{image:ad_300x250:url:full}}",
+                "id": "{{image:ad_300x250:id}}"
+              },
+              "ads_image_tablet": {
+                "url": "{{image:ad_300x250:url:full}}",
+                "id": "{{image:ad_300x250:id}}"
+              },
+              "ads_image_phone": {
+                "url": "{{image:ad_300x250:url:full}}",
+                "id": "{{image:ad_300x250:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_ads_elementor"
+          },
+          {
+            "id": "dc1262d",
+            "elType": "widget",
+            "settings": {
+              "first_title": "POPULAR POST",
+              "header_filter_text": "All",
+              "number_post": {
+                "unit": "px",
+                "size": 2
+              },
+              "unique_content": "unique1",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "boxed": "yes",
+              "column_width": "4"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_27_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "13ca7af",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_color": "#f4f4f9",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "7ba4209",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "ee55331",
+            "elType": "widget",
+            "settings": {
+              "first_title": "YOGA POSES",
+              "header_type": "heading_7",
+              "header_align": "center",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "7925b85",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "unique_content": "unique1",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "column_width": "12"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_37_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "c5d5952",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "eaa59b0",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "a04e05f",
+            "elType": "widget",
+            "settings": {
+              "space": {
+                "unit": "px",
+                "size": 20
+              }
+            },
+            "elements": [],
+            "widgetType": "spacer"
+          },
+          {
+            "id": "47c4ff7",
+            "elType": "widget",
+            "settings": {
+              "first_title": "FOLLOW OUR INSTAGRAM",
+              "header_type": "heading_7",
+              "header_align": "center"
+            },
+            "elements": [],
+            "widgetType": "jnews_element_header_elementor"
+          },
+          {
+            "id": "e2a051c",
+            "elType": "widget",
+            "settings": {
+              "footer_instagram_username": "bryceyoga",
+              "footer_instagram_row": {
+                "unit": "px",
+                "size": 2
+              },
+              "footer_instagram_column": {
+                "unit": "px",
+                "size": 5
+              },
+              "footer_instagram_follow_button": "@INSTAGRAM"
+            },
+            "elements": [],
+            "widgetType": "jnews_footer_instagram_elementor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

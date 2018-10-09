@@ -1,0 +1,284 @@
+{
+  "template": "jnews",
+  "mods": {
+    "0": false,
+    "nav_menu_locations": {
+      "mobile_navigation": "{{menu_location:main-navigation:id}}",
+      "navigation": "{{menu_location:main-navigation:id}}",
+      "top_navigation": "{{menu_location:top-navigation:id}}",
+      "footer_navigation": "{{menu_location:footer-navigation:id}}"
+    },
+    "custom_css_post_id": 214,
+    "jnews_single_post_pagination_related": "nextprev",
+    "jnews_single_post_show_inline_related": true,
+    "jnews_single_post_related_template": "1",
+    "jnews_single_post_inline_related_paragraph": "1",
+    "jnews_single_post_inline_related_random": false,
+    "jnews_single_post_inline_related_fullwidth": true,
+    "jnews_single_number_post_related": "6",
+    "jnews_single_post_inline_related_number": "4",
+    "jnews_hb_element_desktop_top_left": [
+      "top_bar_menu"
+    ],
+    "jnews_hb_element_desktop_mid_center": [],
+    "jnews_hb_element_desktop_mid_right": [
+      "main_menu",
+      "separator1",
+      "search_icon"
+    ],
+    "jnews_hb_element_desktop_bottom_left": [],
+    "jnews_header_logo_type": "image",
+    "jnews_header_logo_text": "LOGO",
+    "jnews_header_logo_text_font": {
+      "font-family": "Georgia,Times,Times New Roman,serif",
+      "font-size": "",
+      "variant": "",
+      "line-height": "",
+      "color": "",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_container_background": "#ffffff",
+    "jnews_scheme_color": "normal",
+    "jnews_body_color": "#666666",
+    "jnews_heading_color": "#111111",
+    "jnews_body_font": {
+      "font-family": "Open Sans",
+      "font-size": "15px",
+      "variant": [
+        "regular",
+        "700"
+      ],
+      "line-height": "",
+      "color": "#7a7a7a",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_hb_align_desktop_bottom_left": "center",
+    "jnews_hb_element_desktop_bottom_right": [],
+    "jnews_header_menu_style": "jeg_menu_style_1",
+    "jnews_header_menu_text_color": "#5a2e90",
+    "jnews_header_menu_hover_text_color": "",
+    "jnews_main_menu_font": {
+      "font-family": "",
+      "font-size": "",
+      "variant": null,
+      "line-height": "",
+      "color": "",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_additional_font": [],
+    "jnews_header_topbar_bg_color": "#5b2e90",
+    "jnews_header_topbar_border_bottom": "transparent",
+    "jnews_header_width": "normal",
+    "jnews_header_topbar_scheme": "normal",
+    "jnews_hb_align_desktop_mid_center": "left",
+    "jnews_header_midbar_background": "#ffffff",
+    "jnews_header_mid_text_color": "#ffffff",
+    "jnews_header_mid_link_color_hover": "#f9f9f9",
+    "jnews_header_bottombar_fitwidth": false,
+    "jnews_header_bottombar_border": false,
+    "jnews_header_bottombar_shadow": true,
+    "jnews_hb_align_desktop_mid_left": "center",
+    "jnews_hb_align_desktop_mid_right": "center",
+    "jnews_hb_element_desktop_mid_left": [
+      "logo"
+    ],
+    "jnews_header_bottombar_background_color": "rgba(255,255,255,0.99)",
+    "jnews_header_menu_hover_line_color": "#ffb703",
+    "jnews_header_midbar_height": "122",
+    "jnews_header_logo": "{{image:logo:url:full}}",
+    "jnews_header_logo_retina": "{{image:logo2x:url:full}}",
+    "jnews_header_topbar_height": "35",
+    "jnews_header_midbar_border_bottom_height": "1",
+    "jnews_header_logo_spacing": {
+      "top": "2px",
+      "bottom": "2px",
+      "left": "0px",
+      "right": "0px"
+    },
+    "jnews_sticky_menu_logo": "{{image:mobile-logo:url:full}}",
+    "jnews_sticky_menu_logo_retina": "{{image:mobile-logo2x:url:full}}",
+    "jnews_header_font": {
+      "font-family": "Lato",
+      "font-size": "",
+      "variant": [
+        "regular"
+      ],
+      "line-height": "",
+      "color": "",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_header_midbar_enable_gradient": false,
+    "jnews_header_midbar_gradient": {
+      "degree": "113",
+      "begincolor": "#ffffff",
+      "beginlocation": "22",
+      "endcolor": "#ffffff",
+      "endlocation": "94"
+    },
+    "jnews_hb_element_desktop_top_right": [
+      "social_icon"
+    ],
+    "jnews_header_topbar_enable_gradient": false,
+    "jnews_header_topbar_border_top_height": "0",
+    "jnews_header_topbar_menu_text_color": "#ffffff",
+    "jnews_header_topbar_gradient": {
+      "degree": 90,
+      "begincolor": "#31393c",
+      "beginlocation": 0,
+      "endcolor": "#4952b7",
+      "endlocation": 100
+    },
+    "jnews_hb_display_desktop_mid_left": "normal",
+    "jnews_hb_display_desktop_mid_right": "normal",
+    "jnews_hb_display_desktop_mid_center": "grow",
+    "jnews_header_stickybar_boxed": false,
+    "jnews_header_stickybar_fitwidth": false,
+    "jnews_header_stickybar_border": false,
+    "jnews_header_stickybar_shadow": true,
+    "jnews_hb_element_desktop_sticky_mid_center": [],
+    "jnews_header_vertical_menu_1": "navigationmenu",
+    "jnews_header_button_1_form": "outline",
+    "jnews_header_button_3_form": "outline",
+    "jnews_header_button_3_background_color": "transparent",
+    "jnews_header_button_3_border_color": "#ffffff",
+    "jnews_accent_color": "#ffb703",
+    "jnews_block_heading_font": {
+      "font-family": "Lato",
+      "font-size": "",
+      "variant": [
+        "700"
+      ],
+      "line-height": "",
+      "color": "#212121",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_footer_style": "custom",
+    "jnews_footer_custom_layout": "{{post:footer:id}}",
+    "jnews_boxed_layout": false,
+    "jnews_image_load": "background",
+    "jnews_p_font": {
+      "font-family": "",
+      "font-size": "",
+      "variant": "",
+      "line-height": "",
+      "color": "",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_h1_font": {
+      "font-family": "Lato",
+      "font-size": "",
+      "variant": [
+        "regular",
+        "700"
+      ],
+      "line-height": "",
+      "color": "",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_header_logo_alt": "",
+    "jnews_header_midbar_scheme": "normal",
+    "jnews_header_topbar_text_color": "#002147",
+    "jnews_header_topbar_link_color_hover": "#002147",
+    "jnews_header_social_icon_text_color": "#fff",
+    "jnews_header_social_icon_background": "",
+    "jnews_header_search_icon_color": "#5a2e90",
+    "jnews_header_nav_icon_color": "#5a2e90",
+    "jnews_header_nav_icon_mobilcolor": "#ffffff",
+    "jnews_background_color": "#8c8c8c",
+    "jnews_mobile_logo": "{{image:footer-logo:url:full}}",
+    "jnews_mobile_logo_retina": "{{image:footer-logo2x:url:full}}",
+    "jnews_sticky_logo_type": "image",
+    "jnews_sticky_logo_text_font": {
+      "font-family": "",
+      "font-size": "",
+      "variant": "",
+      "line-height": "",
+      "color": "#515151",
+      "show_variants": true,
+      "show_subsets": true,
+      "subsets": []
+    },
+    "jnews_category_header": "1",
+    "jnews_category_hero": "3",
+    "jnews_category_hero_style": "jeg_hero_style_2",
+    "jnews_category_content_pagination_show_pageinfo": false,
+    "jnews_category_header_bg_image": "",
+    "jnews_category_header_bg_color": "#5a2e90",
+    "jnews_category_header_style": "dark",
+    "jnews_hb_element_desktop_sticky_mid_right": [
+      "main_menu",
+      "separator2",
+      "search_icon"
+    ],
+    "jnews_header_drawer_social_icon_text_color": "",
+    "jnews_author_page_layout": "right-sidebar",
+    "jnews_author_sidebar": "author_sidebar",
+    "jnews_author_content_pagination_show_navtext": true,
+    "jnews_author_content_excerpt": "20",
+    "jnews_404_page_layout": "no-sidebar",
+    "jnews_404_content": "3",
+    "jnews_404_content_excerpt": "15",
+    "jnews_category_content_excerpt": "15",
+    "jnews_single_post_inline_related_pagination": "nextprev",
+    "jnews_single_show_post_related": false,
+    "jnews_single_show_prev_next_post": false,
+    "jnews_social_icon": [
+      {
+        "social_icon": "facebook",
+        "social_url": "https://www.facebook.com/jegtheme/"
+      },
+      {
+        "social_icon": "twitter",
+        "social_url": "https://twitter.com/jegtheme"
+      },
+      {
+        "social_icon": "instagram",
+        "social_url": "#"
+      },
+      {
+        "social_icon": "youtube",
+        "social_url": "#"
+      }
+    ],
+    "jnews_hb_element_desktop_sticky_mid_left": [
+      "logo"
+    ],
+    "jnews_header_stickybar_background_color": "rgba(90,46,144,0.98)",
+    "jnews_header_stickybar_link_color": "#ffffff",
+    "jnews_header_stickybar_height": "85",
+    "jnews_single_post_inline_related_header": "heading_7",
+    "jnews_single_post_inline_related_ftitle": "Related Posts",
+    "jnews_single_post_inline_related_stitle": "",
+    "jnews_single_post_inline_related_template": "29",
+    "jnews_hb_element_desktop_top_center": [],
+    "jnews_header_mobile_midbar_background_color": "#5a2e90",
+    "jnews_header_stickybar_scheme": "jeg_navbar_dark",
+    "jnews_alt_color": "#5b2e90",
+    "jnews_header_menu_animation": "animateTransform",
+    "jnews_header_menu_follow": "normal"
+  },
+  "options": {
+    "site_icon": "{{image:favicon:id}}",
+    "show_on_front" : "page",
+    "page_on_front" : "{{post:home-1:id}}",
+    "nav_menus_created_posts": [],
+    "amp_customizer[header_color]": "#fff",
+    "amp_customizer[header_background_color]": "#0a89c0",
+    "amp_customizer[color_scheme]": "light"
+  },
+  "wp_css": ""
+}

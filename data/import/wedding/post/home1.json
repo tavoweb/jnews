@@ -1,0 +1,318 @@
+[
+  {
+    "id": "3cd4614",
+    "elType": "section",
+    "settings": {
+      "background_background": "classic",
+      "background_image": {
+        "url": "{{image:hero-cover:url:full}}",
+        "id": "{{image:hero-cover:id}}"
+      },
+      "background_position": "bottom center",
+      "background_attachment": "scroll",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "margin": {
+        "unit": "px",
+        "top": "-60",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "1f6809a",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "padding": {
+            "unit": "px",
+            "top": "150",
+            "right": "0",
+            "bottom": "130",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "1547939",
+            "elType": "widget",
+            "settings": {
+              "title": "Bride stories",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Libre Baskerville",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 72
+              },
+              "typography_font_weight": "400",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "3790c63",
+            "elType": "widget",
+            "settings": {
+              "title": "joyful & unforgetable",
+              "align": "center",
+              "title_color": "#ffffff",
+              "typography_typography": "custom",
+              "typography_font_family": "Libre Baskerville",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 24
+              },
+              "typography_font_weight": "400",
+              "typography_font_style": "italic",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.2
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "d59e4f6",
+    "elType": "section",
+    "settings": {
+      "stretch_section": "section-stretched",
+      "layout": "full_width",
+      "background_background": "classic",
+      "background_color": "#a5c5c8"
+    },
+    "elements": [
+      {
+        "id": "a87c240",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100
+        },
+        "elements": [
+          {
+            "id": "c4c6e20",
+            "elType": "widget",
+            "settings": {
+              "editor": "[mc4wp_form]",
+              "_border_border": "solid",
+              "_border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "_border_color": "rgba(255,255,255,0.3)"
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "91e9a5a",
+    "elType": "section",
+    "settings": {
+      "structure": "21",
+      "margin": {
+        "unit": "px",
+        "top": "50",
+        "right": 0,
+        "bottom": "50",
+        "left": 0,
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "8c67c8d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "content_position": "center"
+        },
+        "elements": [
+          {
+            "id": "ba83adf",
+            "elType": "widget",
+            "settings": {
+              "title": "It's easy for us to tell other people's stories, but you truly helped us actually tell our story in a way we couldn't do on our own.\n",
+              "align": "center",
+              "title_color": "#1c1c1c",
+              "typography_typography": "custom",
+              "typography_font_family": "Libre Baskerville",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 24
+              },
+              "typography_font_weight": "400",
+              "typography_font_style": "italic",
+              "typography_line_height": {
+                "unit": "em",
+                "size": 1.3
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "fbeebc7",
+            "elType": "widget",
+            "settings": {
+              "title": "SUBMIT YOUR STORY",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": ""
+              },
+              "align": "center",
+              "title_color": "#1c1c1c",
+              "typography_typography": "custom",
+              "typography_font_family": "Pathway Gothic One",
+              "typography_font_size": {
+                "unit": "px",
+                "size": 18
+              },
+              "typography_font_weight": "400",
+              "_margin": {
+                "unit": "px",
+                "top": "35",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "4b806bf",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "b42b43c",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "{{image:featured:url:full}}",
+                "id": "{{image:featured:id}}"
+              }
+            },
+            "elements": [],
+            "widgetType": "image"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "60e26fd",
+    "elType": "section",
+    "settings": {
+      "structure": "22"
+    },
+    "elements": [
+      {
+        "id": "acf1a44",
+        "elType": "column",
+        "settings": {
+          "_column_size": 66,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "ab29f8d",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "number_post": {
+                "unit": "px",
+                "size": 1
+              },
+              "post_offset": 1,
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "..."
+            },
+            "elements": [],
+            "widgetType": "jnews_block_10_elementor"
+          },
+          {
+            "id": "f774cdf",
+            "elType": "widget",
+            "settings": {
+              "header_filter_text": "All",
+              "date_format_custom": "Y\/m\/d",
+              "excerpt_ellipsis": "...",
+              "pagination_mode": "loadmore"
+            },
+            "elements": [],
+            "widgetType": "jnews_block_27_elementor"
+          }
+        ],
+        "isInner": false
+      },
+      {
+        "id": "001b6ce",
+        "elType": "column",
+        "settings": {
+          "_column_size": 33,
+          "_inline_size": null,
+          "sticky_sidebar": "yes",
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "6a8c56e",
+            "elType": "widget",
+            "settings": {
+              "sidebar": "default-sidebar"
+            },
+            "elements": [],
+            "widgetType": "sidebar"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

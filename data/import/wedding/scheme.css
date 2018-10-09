@@ -1,0 +1,382 @@
+.clearfix:after,.mc4wp-form-fields:after{
+	content: '';
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.jeg_content{
+	padding-top: 60px;
+	overflow-x: hidden;
+}
+
+.widget{
+	margin-bottom: 50px;
+}
+
+.jeg_header .jeg_midbar{
+	position: relative;
+}
+
+.jeg_header .jeg_midbar:after, .jeg_header .jeg_midbar:before{
+	content: '';
+	position: absolute;
+	top: 10px;
+	left: 0;
+	width: 100%;
+	height: 1px;
+	background: #fff;
+	opacity: 0.3;
+}
+
+.jeg_header .jeg_midbar:after{
+	top: auto;
+	bottom: 10px;
+}
+
+.jeg_header .jeg_midbar .jeg_nav_col{
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	width: calc(100% / 3);
+}
+
+.jeg_header .jeg_midbar .jeg_nav_col .jeg_menu li{
+	padding-right: 0;
+}
+
+.jeg_header .jeg_midbar .jeg_nav_col .jeg_menu li > a{
+	padding: 0 15px;
+	letter-spacing: .2em;
+	font-weight: normal;
+	margin: 0;
+}
+
+.jeg_navbar_mobile{
+	box-shadow: none;
+}
+
+.jeg_menu > li{
+	padding: 0 15px !important;
+}
+
+.jeg_menu > li > a{
+	padding: 5px 0 !important;
+	line-height: 1.6em !important;
+	position: relative;
+}
+
+.jeg_menu > li > a:before{
+	content:"";
+	position:absolute;
+	bottom:-1px;
+	margin:auto;
+	left:0;
+	right:0;
+	width:0;
+	height:1px;
+	background:#fff;
+	transition:all .3s ease-in-out;
+}
+
+.jeg_menu > li > a:hover:before{
+	width: 100%;
+}
+
+.jeg_mobile_logo a,.jeg_mobile_logo h2{
+	text-transform: uppercase;
+	letter-spacing: .2em;
+}
+
+.jeg_main_menu>li>a{
+	font-weight: normal;
+}
+
+.jeg_pl_lg_4{
+	margin-bottom: 60px;
+}
+
+h3.jeg_block_title, .jeg_footer .jeg_footer_heading h3, .jeg_footer .widget h2, .jeg_tabpost_nav li{
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: .13em;
+}
+
+.jeg_block_title{
+	float: none;
+}
+
+.jeg_block_heading_6{
+	border: 0;
+}
+
+.jeg_block_heading_6:after{
+	display: none;
+}
+
+.jeg_block_heading_6 .jeg_block_title span{
+	border-bottom: 1px dotted #1c1c1c;
+}
+
+.jeg_post_meta{
+	text-transform: capitalize;
+	font-size: .86em;
+	padding: 5px 0;
+}
+
+.jeg_post_meta>div:not(:last-of-type){
+	margin-right: 15px;
+}
+
+.jeg_post_meta .fa{
+	display: none;
+}
+
+.jeg_post_category a{
+	font-family: 'Pathway Gothic One';
+	font-size: 14px !important;
+	border-bottom: 1px dotted #aaa;
+	padding-bottom: 4px;
+	margin-bottom: 10px;
+}
+
+.jeg_thumb .jeg_post_category a{
+	font-size: 14px;
+}
+
+.jeg_post_title,.jeg_pl_lg_4 .jeg_post_title{
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+.jeg_single_tpl_2 .entry-header .jeg_post_title{
+	line-height: 1.4em;
+}
+
+.jeg_share_button a,.jeg_search_no_expand.round .jeg_search_input{
+	border-radius: 0;
+}
+
+.jeg_readmore{
+	background: #1c1c1c;
+	box-shadow: none;
+	border: none;
+	color: #fff !important;
+	font-family: 'Pathway Gothic One';
+	text-transform: uppercase;
+	letter-spacing: .12em;
+	font-size: 1.14em;
+}
+
+.jeg_post_excerpt{
+	margin: 1.5em 0 1em;
+}
+
+.jeg_archive_search{
+	background: none;
+	padding: 0;
+}
+
+.jeg_block_loadmore a{
+	font: normal normal 18px 'Pathway Gothic One';
+	height: auto;
+	min-width: auto;
+	padding: 10px 20px;
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+	color: #fff;
+	background: #1c1c1c;
+}
+
+.jscroll-to-top>a{
+	border: 0;
+	box-shadow: none;
+	border-radius: 0;
+	color: #fff;
+	background: #C3BEA3;
+	position: relative;
+	width: 30px;
+	height: 30px;
+}
+
+.jscroll-to-top>a:after{
+	content: 'Top';
+	font-family: 'Pathway Gothic One';
+	font-size: 16px;
+	text-transform: uppercase;
+	line-height: 1.9em;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: #A5C5C8;
+}
+
+.fa-search{
+	color: #fff;
+}
+
+.widget_categories li{
+	color: #fff;
+	padding: 3px 10px !important;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	display: inline-block;
+	background: #A49F82;
+	border: 0;
+}
+
+.widget_categories li a{
+	text-transform: inherit;
+	color: #fff;
+}
+
+div.wpcf7{
+	display: block;
+	margin-top: 60px;
+}
+
+div.wpcf7 .wpcf7-form-control-wrap{
+	display: block;
+}
+
+.btn, .button, input[type=submit]{
+	background: #1c1c1c !important;
+	font-family: 'Pathway Gothic One' !important;
+	font-size: 20px !important;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.byn_text-uppercase{
+	text-transform: uppercase;
+}
+
+.byn_text-italic{
+	font-style: italic;
+}
+
+.byn_space-no-bottom{
+	margin-bottom: 0;
+}
+
+.byn_space-no-top{
+	margin-top: 0;
+}
+
+.byn_row-nospace-left{
+	padding-left: 0;
+}
+
+.byn_row-nospace-right{
+	padding-right: 0;
+}
+
+.byn_row-reset .vc_row.vc_row-o-full-height{
+	min-height: auto;
+}
+
+.byn_button a{
+	background: #1c1c1c;
+	font-family: 'Pathway Gothic One';
+	font-size: 20px !important;
+	font-weight: normal;
+	Text-transform: uppercase;
+}
+
+/*.byn_container-medium{
+	width: 1120px;
+	margin-left: auto;
+	margin-right: auto;
+}*/
+
+.mc4wp-form{
+	border: 0 !important;
+	position: relative;
+}
+
+.mc4wp-form .mc4wp-form-fields{
+	text-align: center;
+}
+
+.mc4wp-form-fields p{
+	width: calc(40% - 10px);
+	float: left;
+	margin: 0 5px;
+}
+
+.jeg_sidebar .mc4wp-form-fields p{
+	width: calc(50% - 10px);
+}
+
+.mc4wp-form-fields p:last-of-type{
+	width: calc(20% - 10px);
+}
+
+.jeg_sidebar .mc4wp-form-fields p:last-of-type{
+	width: calc(100% - 10px);
+	margin-top: 10px;
+}
+
+.mc4wp-form-fields .jeg_mc4wp_heading h3{
+	font-weight: normal;
+	font-style: italic;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+.jeg_sidebar .mc4wp-form-fields .jeg_mc4wp_heading h3{
+	color: #555;
+}
+
+.wpb_text_column .wpb_wrapper #mc4wp-form-1 .mc4wp-form-fields p input{
+	font-size: 14px;
+	border: 0;
+}
+
+.wpb_text_column .wpb_wrapper #mc4wp-form-1 .mc4wp-form-fields p input[type=submit]{
+	font-size: 18px;
+}
+
+.jeg_singlepage .entry-header .jeg_post_subtitle{
+	font-style: italic;
+	line-height: 1.6em;
+}
+
+.vc_custom_1525879087249 .jeg_wrapper a{
+	border-bottom: 1px dotted #1c1c1c;
+	padding-bottom: 3px;
+}
+
+@media screen and (max-width: 1124px){
+
+	.byn_section_submitstory .byn_submitstory_tagline{
+		font-size: 18px !important;
+		line-height: 1.6em !important;
+	}
+	
+	.wedding_hero-section .vc_custom_1525784336517{
+		margin-left: 15px !important;
+		margin-right: 15px !important;
+	}
+	
+}
+
+@media screen and (max-width: 767px){
+	
+	.mc4wp-form-fields p, .mc4wp-form-fields p:last-of-type{
+		width: calc(50% - 10px);
+	}
+	
+	.mc4wp-form-fields p:last-of-type{
+		width: calc(100% - 10px);
+		margin-top: 10px;
+	}
+	
+	.vc_custom_1525788359890{
+		padding-left: 15px !important;
+	}
+	
+}

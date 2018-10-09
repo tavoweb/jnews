@@ -1,0 +1,128 @@
+{
+  "default-sidebar": {
+    "archives-2": {
+      "title": "Archive",
+      "dropdown": "on",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_7",
+      "header_background": "",
+      "header_text_color": ""
+    },
+    "jnews_module_block_28-2": {
+      "first_title": "Most commented",
+      "second_title": "",
+      "url": "",
+      "header_type": "heading_7",
+      "header_background": "",
+      "header_secondary_background": "",
+      "header_text_color": "",
+      "header_line_color": "",
+      "header_accent_color": "",
+      "header_filter_category": "",
+      "header_filter_author": "",
+      "header_filter_tag": "",
+      "header_filter_text": "All",
+      "post_type": "post",
+      "content_type": "all",
+      "number_post": "6",
+      "post_offset": "0",
+      "unique_content": "disable",
+      "include_post": "",
+      "exclude_post": "",
+      "include_category": "",
+      "exclude_category": "",
+      "include_author": "",
+      "include_tag": "",
+      "exclude_tag": "",
+      "sort_by": "latest",
+      "date_format": "default",
+      "date_format_custom": "Y/m/d",
+      "pagination_mode": "disable",
+      "pagination_number_post": "4",
+      "pagination_scroll_limit": "0",
+      "ads_type": "disable",
+      "ads_position": "1",
+      "ads_image": "",
+      "ads_image_link": "",
+      "ads_image_alt": "",
+      "google_publisher_id": "",
+      "google_slot_id": "",
+      "google_desktop": "auto",
+      "google_tab": "auto",
+      "google_phone": "auto",
+      "code": "",
+      "scheme": "normal",
+      "column_width": "auto",
+      "title_color": "",
+      "accent_color": "",
+      "alt_color": "",
+      "excerpt_color": ""
+    },
+    "jnews_module_element_ads-2": {
+      "ads_type": "image",
+      "ads_image": "{{image:ad_345x345:id}}",
+      "ads_image_tablet": "{{image:ad_345x345:id}}",
+      "ads_image_phone": "{{image:ad_345x345:id}}",
+      "ads_image_link": "#",
+      "ads_image_alt": "",
+      "google_publisher_id": "",
+      "google_slot_id": "",
+      "google_desktop": "auto",
+      "google_tab": "auto",
+      "google_phone": "auto",
+      "content": "",
+      "el_id": "",
+      "el_class": "",
+      "scheme": "normal",
+      "column_width": "auto"
+    }
+  },
+  "footer-widget-1": {
+    "jnews_about-2": {
+      "title": "",
+      "aboutimg": "{{image:logo:id}}",
+      "aboutimgretina": "{{image:logo2x:id}}",
+      "aboutname": "",
+      "aboutoccupation": "",
+      "aboutdesc": "Premium WordPress Themes that's perfect for magazine and personal blog.",
+      "signature": "",
+      "signatureretina": "",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    }
+  },
+  "footer-widget-2": {
+    "tag_cloud-2": {
+      "title": "Tags",
+      "taxonomy": "post_tag",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    }
+  },
+  "footer-widget-3": {
+    "jnews_recent_news-2": {
+      "title": "Recent News",
+      "postnumber": "2",
+      "header_url": "",
+      "header_background": "",
+      "header_text_color": ""
+    }
+  },
+  "footer-widget-4": {
+    "meta-2": {
+      "title": "Site links",
+      "second_title": "",
+      "header_url": "",
+      "header_type": "heading_6",
+      "header_background": "",
+      "header_text_color": ""
+    }
+  }
+}
